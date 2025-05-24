@@ -2,8 +2,6 @@
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-## 🎮 Live Demo
-Check out the live version here: [GitHub Pages](https://supreshchalise04.github.io/tie-tac-toe/)
 
 ## 📌 Features
 - Two-player mode
@@ -26,8 +24,7 @@ Check out the live version here: [GitHub Pages](https://supreshchalise04.github.
 - CSS
 - JavaScript
 
-## 📷 Screenshot
-![Tic-Tac-Toe Screenshot](screenshot.png)
+
 
 ## 💡 How to Play
 1. Players take turns marking X or O on the grid.
